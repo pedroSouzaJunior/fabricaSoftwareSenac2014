@@ -1,0 +1,27 @@
+Lista de questões Banco de dados Fabrica de sóftware.
+Pedro Souza Junior.
+
+01. Dados são fatos, conceitos ou instruções que podem ser processadas ou armazenadas por seres humanos  ou meios automatizados. Informações são os dados organizados de uma forma significativa.
+
+02. Um Banco de dados pode ser definido como um conjunto de dados relacionados  que objetivam atender as necessidades de um conjunto de usuários.
+
+03. Um Sistema de banco de dados é o conjunto de programas e aplicativos que juntos ao SGBD permitem a interação de usuários e programadores com os dados e  meta dados de um banco de dados.
+
+04. Responsavel pela autorização de acesso ao banco de dados, pela coordenação e monitoração de seu uso e por adquirir recursos, de hardware e software.
+
+05. Um modelo serve para representar algum aspecto (problema)  do mundo real possibilitando  a melhor compreensão do mesmo. Ele oferece uma forma de, a partir da analise do problema, representarmos os aspectos relevantes para sua solução, compreende-los e então planejar como iremos resolve-lo.
+
+06. Definição do Mini-mundo, Analise e coleta de requisitos, Criação do modelo conceitual, criação do modelo lógico, criação do modelo fisico, catalogo do banco de dados.
+
+07. Questionários,  Análise de Sistemas anteriores,  Entrevistas.
+
+08. Documento de requisitos contem toda a especificação que o usuário deseja de como os dados e procedimentos devem ser trabalhados no sistema. É um documento formal.
+
+09. É uma tecnica de representação de um banco de dados criada em 1976 mostrando uma visão lógica de um determinado ambiente de informações a partir de suas entidades relacionamentos e atributos.
+
+10. Modelo simples com estruturas tabulares, simplicidade e rigor dos conceitos de base,  possui organização de dados como relação, dominio, tuplas, é integro e utiliza manipulação de linguagens como o sql.
+
+11. O sistema de banco de dados deve garantir uma visão totalmente abstrata do banco de dados para o usuário, ou seja, para o usuário do banco de dados pouco importa qual unidade de armazenamento está sendo usada para guardar seus dados, contanto que os mesmos estejam disponíveis no momento necessário. Abstração se dá em três níveis 
+	Nível de visão do usuário: as partes do banco de dados que o usuário tem acesso de acordo com a necessidade individual de cada usuário ou grupo de usuários.
+	Nível conceitual: define quais os dados que estão armazenados e qual o relacionamento entre eles.
+	Nível físico: é o nível mais baixo de abstração, em que define efetivamente de que maneira os dados estão armazenados.
